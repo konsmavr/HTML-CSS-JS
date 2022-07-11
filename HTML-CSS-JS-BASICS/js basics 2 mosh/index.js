@@ -7,6 +7,8 @@ console.log(name);
 // Cannot star with a number (1name)
 // Cannot contain a space or hyphen (-)
 // Are case-sansitive
+// js basics
+
 
 
 let fisrtName = 'Kostas';
